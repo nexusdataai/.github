@@ -2,6 +2,15 @@
 
 **The intelligent AI operating layer for the enterprise** — connect existing CRMs, ERPs, data warehouses, and SaaS tools; build a semantic knowledge graph; reason with governed AI; and run autonomous journeys and agents **without replacing your core systems**.
 
+## Featured repositories
+
+| | | |
+|:---:|:---:|:---:|
+| [**nexus-ontology**](https://github.com/nexusdataai/nexus-ontology) | [**nexus-ai-engine**](https://github.com/nexusdataai/nexus-ai-engine) | [**nexus-docs**](https://github.com/nexusdataai/nexus-docs) |
+| Control + data plane | Journey execution plane | Documentation portal |
+| [**nexus-simulator**](https://github.com/nexusdataai/nexus-simulator) | [**nexus-deployer**](https://github.com/nexusdataai/nexus-deployer) | [**nexus-cli**](https://github.com/nexusdataai/nexus-cli) |
+| Enterprise data simulators | Deploy / K8s operator | CLI tooling |
+
 ---
 
 ## Connect → Map → Reason → Execute
